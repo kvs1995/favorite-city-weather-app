@@ -1,2 +1,3 @@
 # place apis in the hidden file
 .env
+.vscode
